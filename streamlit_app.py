@@ -5,7 +5,7 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 마법 교실",
+    page_title="황석영 수학 나한테 땋임",
     page_icon="🔮",
     layout="wide"
 )
@@ -196,9 +196,10 @@ with col1:
 
 with col2:
     st.write("유튜브 동영상 예제")
-    st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+    st.video("https://www.youtube.com/watch?v=hch54eTQAh8")
 
 # --- 10. 마무리 ---
 st.markdown("---")
 st.subheader("모두 멋진 웹 앱을 만들어 보세요! 🚀")
 st.balloons() # 학생들을 위한 작은 이벤트!
+
